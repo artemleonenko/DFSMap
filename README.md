@@ -2,9 +2,9 @@
 
 ### **Preview IOS**
 
-https://github.com/user-attachments/assets/cdc97c42-074d-41d6-b448-9b12183c35d0
+https://github.com/user-attachments/assets/7eecaa2e-c86d-4ab4-a9de-f2b73e278772
 
 ### **Preview Android**
 
-https://github.com/user-attachments/assets/203bf6b2-ad33-4035-b5e6-f0ece312957b
+https://github.com/user-attachments/assets/3eaf5cf5-f1f9-472a-8945-2918007cba9c
 
