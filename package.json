@@ -1,0 +1,47 @@
+{
+  "name": "yandex-map-app",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "web": "expo start --web",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "postinstall": "patch-package"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "@gorhom/bottom-sheet": "^5.1.8",
+    "@react-navigation/bottom-tabs": "^7.4.6",
+    "@react-navigation/elements": "^2.6.3",
+    "@react-navigation/native": "^7.1.17",
+    "@react-navigation/native-stack": "^7.3.25",
+    "expo": "^53.0.20",
+    "expo-asset": "~11.1.4",
+    "expo-build-properties": "~0.14.8",
+    "expo-dev-client": "~5.2.4",
+    "expo-linking": "~7.1.7",
+    "expo-splash-screen": "~0.30.7",
+    "expo-system-ui": "~5.0.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-edge-to-edge": "1.6.0",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-vector-icons": "^10.3.0",
+    "react-native-web": "^0.20.0",
+    "react-native-yamap": "^4.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.0.10",
+    "@types/react-native-vector-icons": "^6.4.18",
+    "patch-package": "^8.0.0",
+    "postinstall-postinstall": "^2.1.0",
+    "typescript": "~5.8.3"
+  },
+  "private": true
+}
